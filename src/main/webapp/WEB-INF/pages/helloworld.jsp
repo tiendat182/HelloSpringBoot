@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Strig Boot Spring MVC - HelloWorld</title>
+<title>String Boot Spring MVC - HelloWorld</title>
 </head>
  
 <body>
