@@ -1,2 +1,4 @@
-D:\E-BOOKS\workspace_WEB\HelloSpringBoot\src\main\java\org\o7planning\hellospringboot\HelloSpringBootApplication.java
-D:\E-BOOKS\workspace_WEB\HelloSpringBoot\src\main\java\org\o7planning\hellospringboot\ServletInitializer.java
+D:\E-BOOKS\workspaces\HelloSpringBoot\src\main\java\org\o7planning\hellospringboot\config\WebMvcConfig.java
+D:\E-BOOKS\workspaces\HelloSpringBoot\src\main\java\org\o7planning\hellospringboot\ServletInitializer.java
+D:\E-BOOKS\workspaces\HelloSpringBoot\src\main\java\org\o7planning\hellospringboot\HelloSpringBootApplication.java
+D:\E-BOOKS\workspaces\HelloSpringBoot\src\main\java\org\o7planning\hellospringboot\controller\HelloWorldController.java
